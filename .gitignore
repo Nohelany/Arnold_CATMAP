@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+transform_*.jpg
+recovered.jpg
